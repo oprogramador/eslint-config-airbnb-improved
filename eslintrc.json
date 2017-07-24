@@ -5,6 +5,7 @@
   },
   "extends": "airbnb",
   "plugins": [
+    "mocha",
     "sorting"
   ],
   "rules": {
@@ -20,6 +21,8 @@
       "error",
       120
     ],
+    "mocha/no-exclusive-tests": "error",
+    "mocha/no-identical-title": "error",
     "new-cap": "off",
     "newline-before-return": "error",
     "no-mixed-operators": "off",
