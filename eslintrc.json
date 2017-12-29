@@ -10,6 +10,8 @@
   ],
   "rules": {
     "class-methods-use-this": "off",
+    "curly": ["error", "all"],
+    "brace-style": ["error", "1tbs", { "allowSingleLine": false }],
     "react/jsx-curly-spacing": [
       "error",
       "always"
