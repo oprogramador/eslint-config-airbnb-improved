@@ -19,6 +19,7 @@
     "import/extensions": "off",
     "import/imports-first": "off",
     "import/no-extraneous-dependencies": "off",
+    "import/order": "off",
     "max-len": [
       "error",
       120
