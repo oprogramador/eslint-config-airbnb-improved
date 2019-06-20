@@ -28,6 +28,7 @@
     "mocha/no-identical-title": "error",
     "new-cap": "off",
     "newline-before-return": "error",
+    "no-await-in-loop": "off",
     "no-mixed-operators": "off",
     "no-underscore-dangle": "off",
     "no-param-reassign": "off",
