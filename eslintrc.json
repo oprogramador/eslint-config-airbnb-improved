@@ -9,6 +9,7 @@
     "sorting"
   ],
   "rules": {
+    "arrow-parens": ["error", "as-needed", { "requireForBlockBody": true }],
     "class-methods-use-this": "off",
     "curly": ["error", "all"],
     "brace-style": ["error", "1tbs", { "allowSingleLine": false }],
