@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-airbnb-improved",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Eslint configuration based on Airbnb with some improvements",
   "license": "MIT",
   "main": "./index.js",
